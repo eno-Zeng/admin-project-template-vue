@@ -1,0 +1,8 @@
+$app-header-height: 40px;
+$app-aside-width: 200px;
+$app-header-right-width: 100px;
+$app-header-bg: #F56C6C;
+
+
+$app-body-width: calc(100vw - $app-aside-width);
+$app-body-height: calc(100vh - $app-header-height);
